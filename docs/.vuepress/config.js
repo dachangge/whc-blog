@@ -15,7 +15,7 @@ module.exports = {
     // 侧边栏
     sidebar: [
       ['/', '首页'],
-      ['/blog/firstBlog.md', '我的第一篇博客']
+      ['/blog/js/dataType.md', 'JS数据类型']
     ]
   }
 }
